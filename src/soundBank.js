@@ -1,6 +1,6 @@
 const soundBank = [{}, {}, {}, {}, {}, {}, {}, {}, {}];
 const keyVals = ['Q', 'W', 'E', 'A', 'S', 'D', 'Z', 'X', 'C'];
-const keyCodes = [81, 87, 69, 65, 83, 68, 90, 88, 76];
+const keyCodes = [81, 87, 69, 65, 83, 68, 90, 88, 67];
 const id1 = [
   'Heater-1',
   'Heater-2',
