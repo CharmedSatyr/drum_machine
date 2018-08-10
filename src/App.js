@@ -15,7 +15,7 @@ class App extends Component {
     this.keyPlay = this.keyPlay.bind(this);
   }
   playSound(k) {
-    this.setState({ playing: k.id1 });
+    this.setState({ playing: this.state.bank === 1 ? k.id1 : k.id2 });
     const sound = this[k.keyVal].current;
     sound.currentTime = 0;
     sound.play();
