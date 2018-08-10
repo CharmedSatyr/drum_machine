@@ -1,11 +1,12 @@
 # Drum Machine
-### "Build a Drum Machine" is a project required for [freeCodeCamp](https://www.freecodecamp.com)'s Front End Libraries certification. 
+### "Build a Drum Machine" is a project required for [freeCodeCamp](https://www.freecodecamp.com)'s Front End Libraries certification: 
+https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine/
 
 ***
 
-**Date Completed:** N/A
+**Date Completed:** August 9, 2018
 
-**See the project on CodePen at:** N/A
+**See the completed project at:** https://charmedsatyr.github.io/drum_machine/
 
 ***
 
