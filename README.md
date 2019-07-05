@@ -6,7 +6,7 @@ https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/
 
 **Date Completed:** August 9, 2018
 
-**See the completed project at:** https://charmedsatyr.github.io/drum_machine/
+**See the completed project at:** https://charmedsatyr-freecodecamp.github.io/drum_machine/
 
 ***
 

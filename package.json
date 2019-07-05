@@ -2,7 +2,7 @@
   "name": "drum_machine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://charmedsatyr.github.io/drum_machine/",
+  "homepage": "https://charmedsatyr-freecodecamp.github.io/drum_machine/",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
