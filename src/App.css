@@ -61,6 +61,7 @@ button {
 
 .app .soundPad button {
   border-radius: 4px;
+  color: var(--dark);
   padding: 10px;
 }
 
